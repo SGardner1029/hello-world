@@ -1,2 +1,2 @@
 # hello-world
-Just another introductory file
+I'm new to this.
